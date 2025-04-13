@@ -1,5 +1,5 @@
-Login & Translation App — Jetpack Compose + Room + MVVM
-This is a feature-complete Android app that combines Jetpack Compose UI, Room local database, MVVM architecture, and NiuTrans translation API. It demonstrates modern Android development practices including user authentication, API integration, and persistent data storage.
+Login & Translation App — Jetpack Compose + Room +
+This is a feature-complete Android app that combines Jetpack Compose UI, Room local database,architecture, and NiuTrans translation API. It demonstrates modern Android development practices including user authentication, API integration, and persistent data storage.
 
 Key Features
 User Registration & Login (local Room authentication)
